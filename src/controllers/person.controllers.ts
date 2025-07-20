@@ -50,3 +50,5 @@ export const findAllPerson = async (req: Request, res: Response) => {
     console.log(error);
   }
 };
+
+//alteracao minima para teste
